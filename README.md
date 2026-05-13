@@ -1,4 +1,4 @@
-![Banner](src-banner.png)
+![Banner](assets/src-banner.png)
 
 # Verify
 ###  Bot Discord de sécurité par captcha — protège ton serveur contre les raids, bots et comptes indésirables.
