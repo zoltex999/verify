@@ -1,6 +1,6 @@
 ![Banner](src-banner.png)
 
-<h1 align="center" style="font-size: 64px;">Verify</h1>
+<h1 align="center" style="font-size: 256px;">Verify</h1>
 
 <p align="center">
   Bot Discord de sécurité par captcha — protège ton serveur contre les raids, bots et comptes indésirables.
