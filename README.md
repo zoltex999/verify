@@ -1,15 +1,14 @@
-# Verify 🔐
+# Verify
 
 Bot Discord de sécurité par captcha — protège ton serveur contre les raids, bots et comptes indésirables.
 
 ## Fonctionnement
 
-Lorsqu'un membre rejoint le serveur, Verify lui envoie un captcha à résoudre avant d'accéder aux salons. En cas d'échec, il est automatiquement expulsé.
+Lorsqu'un membre rejoint le serveur, Verify lui envoie un captcha à résoudre avant d'accéder aux salons.
 
 ## Fonctionnalités
 
 - Captcha automatique à l'arrivée d'un membre
-- Expulsion automatique en cas d'échec
 - Rôle attribué après vérification réussie
 - Protection contre les raids et bots
 
