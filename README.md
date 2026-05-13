@@ -1,29 +1,36 @@
 ![Banner](src-banner.png)
-# Verify
 
-Bot Discord de sécurité par captcha — protège ton serveur contre les raids, bots et comptes indésirables.
+<h1 align="center" style="font-size: 64px;">Verify</h1>
+
+<p align="center">
+  Bot Discord de sécurité par captcha — protège ton serveur contre les raids, bots et comptes indésirables.
+</p>
+
 ---
-## Fonctionnement
+
+# Fonctionnement
  
 Lorsqu'un membre rejoint le serveur, Verify lui envoie un captcha à résoudre avant d'accéder aux salons.
 
-## Fonctionnalités
+# Fonctionnalités
 
 - Captcha automatique à l'arrivée d'un membre
 - Rôle attribué après vérification réussie
 - Protection contre les raids et bots
+
 ---
-## Installation
+
+# Installation
 
 ### [discord.com/add/verify](https://discord.com/oauth2/authorize?client_id=1492837767758086265&permissions=8&integration_type=0&scope=bot)
 
+# Configuration
 
-## Configuration
-
-``/configurer`` - Ouvre un modal permettant de choisir les salons et les roles configurés
-``/help`` - Affiche la liste des commandes disponibles
+`/configurer` - Ouvre un modal permettant de choisir les salons et les rôles configurés  
+`/help` - Affiche la liste des commandes disponibles
 
 ---
-## Supporte-moi 
+
+# Supporte-moi
 
 ### [ko-fi.com/zoltex](https://ko-fi.com/zoltex)
