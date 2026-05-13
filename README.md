@@ -1,9 +1,9 @@
-# Verify
+# 🔵 Verify
 
 Bot Discord de sécurité par captcha — protège ton serveur contre les raids, bots et comptes indésirables.
 
 ## Fonctionnement
-
+ 
 Lorsqu'un membre rejoint le serveur, Verify lui envoie un captcha à résoudre avant d'accéder aux salons.
 
 ## Fonctionnalités
@@ -14,26 +14,13 @@ Lorsqu'un membre rejoint le serveur, Verify lui envoie un captcha à résoudre a
 
 ## Installation
 
-```bash
-git clone https://github.com/zoltex999/verify
-cd verify
-pip install -r requirements.txt
-python bot.py
-```
+### https://discord.com/oauth2/authorize?client_id=1492837767758086265&permissions=8&integration_type=0&scope=bot
 
 ## Configuration
 
-```env
-TOKEN=ton_token_discord
-ROLE_ID=id_du_role_a_attribuer
-```
+``/configurer`` - Ouvre un modal permettant de choisir les salons et les roles configurés
+``/help`` - Affiche la liste des commandes disponibles
 
-## Prérequis
+## Supporte-moi 
 
-- Python 3.10+
-- discord.py
-- Un bot Discord avec les intents activés
-
-## Licence
-
-MIT
+### https://ko-fi.com/zoltex
